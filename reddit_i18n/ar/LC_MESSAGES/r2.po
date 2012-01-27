@@ -121,7 +121,7 @@ msgstr "ستصلك رساله علي بريدك الالكتروني خلال ل
 
 #: r2/controllers/api.py:1705
 msgid "try again tomorrow"
-msgstr ""
+msgstr "الرجاء المحاوله مرة أخرى غداً"
 
 #: r2/controllers/api.py:1932 r2/controllers/api.py:2113
 msgid "invalid css class"
@@ -162,7 +162,7 @@ msgstr "حسناَ, كل شيء علي ما يرام"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr "برجاء القرءة أولاَ"
+msgstr "إقرأ هذا أولا"
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:425
 #: r2/templates/frametoolbar.html:107
@@ -180,7 +180,7 @@ msgstr "تم حظر هذا الريددت"
 
 #: r2/controllers/errors.py:27
 msgid "please login to do that"
-msgstr "برجاء تسجيل الدخول أولاَ"
+msgstr "يرجى تسجيل الدخول أولاَ"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
@@ -196,7 +196,7 @@ msgstr "يجدر بك أن تتأكد من رابط الموقع"
 
 #: r2/controllers/errors.py:31
 msgid "care to try these again?"
-msgstr "تريد المحاولة مرة اخري؟"
+msgstr "هل تريد المحاوله مرة أخرى؟"
 
 #: r2/controllers/errors.py:32
 msgid "invalid user name"
@@ -208,11 +208,11 @@ msgstr "اسم المستخدم تم اختياره من قبل مستخدم آ�
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "اسم المستخدم قد تم أستحواذه من قبل حساب محذوف"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "لايمكنك إرسال الرسائل الى الأشخاس الذين قمت بحجبهم"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -228,7 +228,7 @@ msgstr ""
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "لقد كتبت هذا التعليق على رابط تم حذفه"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
@@ -240,7 +240,7 @@ msgstr ""
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "لايمكن قبول كلمة السر هذه"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
@@ -312,7 +312,7 @@ msgstr "لايسمح لك بالكتابة هناك"
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "يجب ان تحدد الريددت الفرعي"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -365,7 +365,7 @@ msgstr ""
 
 #: r2/controllers/errors.py:75
 msgid "please provide a date of the form mm/dd/yyyy"
-msgstr "برجاء تحديد تاريخ"
+msgstr "يرجى تحديد التاريخ"
 
 #: r2/controllers/errors.py:76
 msgid "the dates need to be in order and not identical"
@@ -450,7 +450,7 @@ msgstr ""
 
 #: r2/controllers/front.py:301
 msgid "no comments (yet)"
-msgstr ""
+msgstr "لايوجد تعليقات حتى الآن"
 
 #: r2/controllers/front.py:303
 #, python-format
@@ -538,24 +538,24 @@ msgstr "مرحبا بعودتك"
 
 #: r2/controllers/front.py:1094
 msgid "thanks"
-msgstr ""
+msgstr "شكرا"
 
 #: r2/controllers/front.py:1127 r2/controllers/front.py:1149
 #: r2/lib/menus.py:101 r2/templates/gold.html:84
 msgid "reddit gold"
-msgstr ""
+msgstr "ريددت الذهبي"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
-msgstr ""
+msgstr "محاوله جيده."
 
 #: r2/controllers/ipn.py:276
 msgid "the gold has been delivered!"
-msgstr ""
+msgstr "تم إيصال الذهب!"
 
 #: r2/controllers/ipn.py:449
 msgid "thanks for buying reddit gold!"
-msgstr ""
+msgstr "شكرا لشرائك ريددت الذهبي!"
 
 #: r2/controllers/ipn.py:459 r2/templates/thanks.html:32
 msgid "thanks for buying creddits!"
@@ -580,11 +580,11 @@ msgstr "أحدث المرسلات"
 
 #: r2/controllers/listingcontroller.py:429
 msgid "top scoring links"
-msgstr ""
+msgstr "الروابط الأعلى تقييماً"
 
 #: r2/controllers/listingcontroller.py:431
 msgid "most controversial links"
-msgstr ""
+msgstr "الروابط الأكثر جدلاً"
 
 #: r2/controllers/listingcontroller.py:438
 msgid "you're really bored now, eh?"
@@ -593,17 +593,17 @@ msgstr ""
 #: r2/controllers/listingcontroller.py:502
 #, python-format
 msgid "overview for %(user)s"
-msgstr ""
+msgstr "معلومات %(user)s العامه"
 
 #: r2/controllers/listingcontroller.py:503
 #, python-format
 msgid "comments by %(user)s"
-msgstr ""
+msgstr "تعليقات %(user)s"
 
 #: r2/controllers/listingcontroller.py:504
 #, python-format
 msgid "submitted by %(user)s"
-msgstr ""
+msgstr "تمت الإظافه بواسطة %(user)s"
 
 #: r2/controllers/listingcontroller.py:505
 #, python-format
@@ -665,7 +665,7 @@ msgstr ""
 
 #: r2/controllers/post.py:135
 msgid "over 18?"
-msgstr ""
+msgstr "عمرك فوق 18؟"
 
 #: r2/controllers/promotecontroller.py:48
 msgid "promoted by you"
@@ -737,19 +737,19 @@ msgstr ""
 
 #: r2/lib/menus.py:46
 msgid "what's hot"
-msgstr ""
+msgstr "الأكثر إثاره"
 
 #: r2/lib/menus.py:47
 msgid "what's new"
-msgstr ""
+msgstr "الجدبد"
 
 #: r2/lib/menus.py:48
 msgid "top scoring"
-msgstr ""
+msgstr "الأعلى تقييماً"
 
 #: r2/lib/menus.py:49
 msgid "most controversial"
-msgstr ""
+msgstr "الأكثر جدلاً"
 
 #: r2/lib/menus.py:51 r2/lib/menus.py:67
 msgid "recommended"
@@ -757,7 +757,7 @@ msgstr "مقترح"
 
 #: r2/lib/menus.py:52
 msgid "promote"
-msgstr ""
+msgstr "روّج"
 
 #: r2/lib/menus.py:56
 msgid "hot"
@@ -793,11 +793,11 @@ msgstr "علاقة"
 
 #: r2/lib/menus.py:64 r2/templates/buttontypes.html:191
 msgid "controversial"
-msgstr ""
+msgstr "جدليّه"
 
 #: r2/lib/menus.py:65
 msgid "best"
-msgstr ""
+msgstr "الأفضل"
 
 #: r2/lib/menus.py:66
 msgid "saved {toolbar}"
@@ -841,7 +841,7 @@ msgstr "سبام"
 
 #: r2/lib/menus.py:81
 msgid "autobanned"
-msgstr ""
+msgstr "مطرود تلقائياً"
 
 #: r2/lib/menus.py:84
 msgid "turn admin on"
@@ -857,7 +857,7 @@ msgstr "مفضلات"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "مدونه"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:413
 msgid "logout"
@@ -865,11 +865,11 @@ msgstr "خروج"
 
 #: r2/lib/menus.py:93
 msgid "contact us"
-msgstr ""
+msgstr "إتصل بنا"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr ""
+msgstr "إضافات فايرفوكس"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
@@ -885,7 +885,7 @@ msgstr ""
 
 #: r2/lib/menus.py:98
 msgid "mobile"
-msgstr ""
+msgstr "الهاتف المحمول"
 
 #: r2/lib/menus.py:99
 msgid "store"
@@ -893,7 +893,7 @@ msgstr "السوق"
 
 #: r2/lib/menus.py:100
 msgid "advertise"
-msgstr ""
+msgstr "أعلان"
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
@@ -905,7 +905,7 @@ msgstr "خيارات"
 
 #: r2/lib/menus.py:106
 msgid "RSS feeds"
-msgstr ""
+msgstr "RSS feeds"
 
 #: r2/lib/menus.py:107
 msgid "friends"
@@ -952,7 +952,7 @@ msgstr ""
 
 #: r2/lib/menus.py:124
 msgid "home"
-msgstr ""
+msgstr "الصفحه الرئيسيه"
 
 #: r2/lib/menus.py:125 r2/lib/pages/pages.py:415
 msgid "about"
@@ -1009,15 +1009,15 @@ msgstr "ساعد في الترجمة"
 
 #: r2/lib/menus.py:141 r2/templates/subredditstylesheet.html:88
 msgid "errors"
-msgstr ""
+msgstr "الأخطاء"
 
 #: r2/lib/menus.py:143
 msgid "ads"
-msgstr ""
+msgstr "إعلانات"
 
 #: r2/lib/menus.py:144
 msgid "usage"
-msgstr ""
+msgstr "الإستخدام"
 
 #: r2/lib/menus.py:145
 msgid "promoted"
@@ -1029,7 +1029,7 @@ msgstr ""
 
 #: r2/lib/menus.py:147
 msgid "reported links"
-msgstr ""
+msgstr "رابط مبلغ عنه"
 
 #: r2/lib/menus.py:148
 msgid "reported authors"
@@ -1042,7 +1042,7 @@ msgstr "معلومات"
 #: r2/lib/menus.py:150 r2/templates/printablebuttons.html:164
 #: r2/templates/sharelink.html:94
 msgid "share"
-msgstr ""
+msgstr "شارك"
 
 #: r2/lib/menus.py:152
 msgid "overview"
